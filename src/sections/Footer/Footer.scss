@@ -59,22 +59,24 @@ footer {
         }
     }
 
+  
     .contact-list {
         display: flex;
         align-items: center;
         margin-bottom: 40px;
         margin-top: 30px;
-
+        gap: 10px;
+    
         .contact-icon {
             background: $color-white;
-            width:50px;
+            width: 50px;
             height: 50px;
             line-height: 50px;
             border-radius: 20px;
             position: relative;
             z-index: 0;
             text-align: center;
-
+    
             &::before {
                 position: absolute;
                 content: '';
@@ -84,31 +86,37 @@ footer {
                 top: -10px;
                 left: -10px;
                 z-index: -1;
-                opacity: .3;
+                opacity: 0.3;
                 border-radius: 20px;
             }
-
+    
             img {
                 max-width: 50px;
             }
         }
-
+    
         .contact-text {
             margin-left: 30px;
-
+            flex: 1; // Ensures the text takes up remaining space without overlapping
+    
             p {
                 font-size: 12px;
                 margin-bottom: 5px;
                 text-transform: capitalize;
                 font-weight: 500;
+                white-space: normal; // Allow wrapping of text
+                word-break: break-word; // Prevent long words from overflowing
             }
-
+    
             h5 {
                 color: $color-white;
                 font-size: 16px;
+                white-space: normal;
+                word-break: break-word;
             }
         }
     }
+    
 
     .copyright-area {
         display: flex;

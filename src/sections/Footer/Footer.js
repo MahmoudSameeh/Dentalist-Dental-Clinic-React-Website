@@ -88,7 +88,7 @@ const Footer = () => {
                                                 <div className="contact-icon">
                                                     <img src={footerContact.icon} alt="call" />
                                                 </div>
-                                                <div className="contact-text">
+                                                <div className="contact-text responsive-text">
                                                     <p>{footerContact.title}</p>
                                                     <h5>{footerContact.info}</h5>
                                                 </div>
