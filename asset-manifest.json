@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Dentalist-Dental-Clinic-React-Website/static/css/main.a90ccd5b.css",
-    "main.js": "/Dentalist-Dental-Clinic-React-Website/static/js/main.0ce4a5ee.js",
+    "main.js": "/Dentalist-Dental-Clinic-React-Website/static/js/main.279d30ab.js",
     "static/js/496.0f1845f2.chunk.js": "/Dentalist-Dental-Clinic-React-Website/static/js/496.0f1845f2.chunk.js",
     "static/media/doctorAtefWedding.png": "/Dentalist-Dental-Clinic-React-Website/static/media/doctorAtefWedding.b03fd399911dc35c0067.png",
     "static/media/1.png": "/Dentalist-Dental-Clinic-React-Website/static/media/1.7ee5d44283b510ee1579.png",
@@ -19,11 +19,11 @@
     "static/media/logo.png": "/Dentalist-Dental-Clinic-React-Website/static/media/logo.9cb018fc8926bbe6ba83.png",
     "index.html": "/Dentalist-Dental-Clinic-React-Website/index.html",
     "main.a90ccd5b.css.map": "/Dentalist-Dental-Clinic-React-Website/static/css/main.a90ccd5b.css.map",
-    "main.0ce4a5ee.js.map": "/Dentalist-Dental-Clinic-React-Website/static/js/main.0ce4a5ee.js.map",
+    "main.279d30ab.js.map": "/Dentalist-Dental-Clinic-React-Website/static/js/main.279d30ab.js.map",
     "496.0f1845f2.chunk.js.map": "/Dentalist-Dental-Clinic-React-Website/static/js/496.0f1845f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a90ccd5b.css",
-    "static/js/main.0ce4a5ee.js"
+    "static/js/main.279d30ab.js"
   ]
 }
