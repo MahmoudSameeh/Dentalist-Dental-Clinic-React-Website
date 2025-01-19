@@ -35,7 +35,7 @@ const Footer = () => {
     const footerContacts = [
         {
             'title': 'Phone Number',
-            'info': '+088 123 654 987',
+            'info': '+02 10 3379 5164',
             'icon': call
         },
         {
@@ -45,7 +45,7 @@ const Footer = () => {
         },
         {
             'title': 'Clinic Address',
-            'info': '35 West Dental Street California 1004',
+            'info': 'مدينة العبور ( الحي التاسع - شارع عباس العقاد - مول ميديكال ديستنيشن - عيادة g7 ), Cairo, Egypt',
             'icon': location
         }
     ]
@@ -58,14 +58,13 @@ const Footer = () => {
                         <div className="footer-logo">
                             <img src={logo} alt="logo" />
                         </div>
-                        <p>Dental Care Seattle is a top-rated local practice for cosmetic, preventative, and restorative dentistry on First Hill</p>
+                        <p>Lumina Dental Studio is a highly-rated local practice specializing in cosmetic, preventive, and restorative dentistry, dedicated to providing exceptional care and beautiful smiles for our community.</p>
 
                         <div className="social-logo">
                             <p>Follow us on</p>
                             <ul>
-                                <li><a href="/"><FaFacebookF/></a></li>
-                                <li><a href="/"><FaTwitter/></a></li>
-                                <li><a href="/"><FaInstagram/></a></li>
+                                <li><a href="https://www.facebook.com/lumina.119"><FaFacebookF/></a></li>
+                                <li><a href="https://www.instagram.com/lumina.88?fbclid=IwY2xjawH6FxRleHRuA2FlbQIxMAABHXpyQG8pVG5QYnjreRU1w8y_2nd9UY1Zv5h61ciy83zoXZ6zQb0C47dCsQ_aem_JJRdtGwN93Pk9IdJcg4ATw"><FaInstagram/></a></li>
                             </ul>
                         </div>
                     </div>
